@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Semana18Calculadora</string>
+    <string name="Bien">BIENVENIDOS</string>
+    <string name="Calculdora">CALCULADORA</string>
+    <string name="AcercaD">ACERCA DE</string>
+    <string name="number">Escribe un Número</string>
+    <string name="button">+</string>
+    <string name="button2">-</string>
+    <string name="button3">/</string>
+    <string name="resul">Resultado</string>
+    <string name="regrear">REGRESAR</string>
+    <string name="button4">*</string>
+    <string name="Creacio">Fecha de creacion: viernes 28 y sabado 29 de mayo.</string>
+    <string name="register_numbers">No puede dejar campos vacios</string>
+    <string name="in">INTEGRANTES</string>
+    <string name="det">Marvin Josue Solorzano Cruz, Jose Antonio Chavez Martinez, Kevin Anthony Ortega Ortiz, Jose Roberto Flores Flores, Eduardo Alexis Reyes Zavala, Carlos Jose Diaz Martinez, Cesia Elizabeth Flores Orellana.</string>
+    <string name="ace">La app consta de 3 pantallas, la principal donde se encuentra, la pantalla de bienvenida y el boton para poder utilizar la calculadora y el boton para describir de lo que trata la app, la app trata de realizar operaciones basicas, suma, resta, multiplicacion, division.</string>
+</resources>
